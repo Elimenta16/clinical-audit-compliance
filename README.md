@@ -3,7 +3,7 @@
 A fun and practical project using Python and Streamlit to audit hospital Electronic Health Record (EHR) data against Mexican medical regulations (**NOM-004-SSA3-2012**).
 
 ## 🚀 Live Demo
-🔗 [Check out the live app here!](PASTE_YOUR_STREAMLIT_URL_HERE)
+🔗 https://clinical-audit-compliance-2xcxodnbevdgupdhfsa42t.streamlit.app/
 
 ## 🛠️ What this app does
 Instead of manually checking medical notes row by row in Excel, I built this app to automate the whole quality control process in seconds:
